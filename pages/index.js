@@ -1,9 +1,11 @@
 const Home = () => {
   return (
-    <h1>
-      Dedicando todas as minhas forças para proporcionar uma vida melhor para
-      minha filha!!!
-    </h1>
+    <div>
+      <h1>
+        Mari, se você der uma risadinha, Em breve vamos tomar uma cervejinha !
+        🍻
+      </h1>
+    </div>
   );
 };
 
