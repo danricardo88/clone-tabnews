@@ -2,8 +2,7 @@ const Home = () => {
   return (
     <div>
       <h1>
-        Mari, se você der uma risadinha, Em breve vamos tomar uma cervejinha !
-        🍻
+        make cavernaTab your new tab page and enjoy a new tab experience with 🍻
       </h1>
     </div>
   );
